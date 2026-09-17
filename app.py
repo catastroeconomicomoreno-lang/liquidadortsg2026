@@ -218,7 +218,7 @@ try:
     elif bi <= 47272500:
         lim_inf, cfa_val, alic = 38677500.0, 1096761.73, 0.0170
     elif bi <= 154447750:
-        lim_inf, cfa_val, alic = 47272500.0, 1163308.75, 0.0171
+        lim_inf, cfa_val, alic = 47272500.0, 1633008.75, 0.0171
     elif bi <= 1000000000:
         lim_inf, cfa_val, alic = 154447750.0, 4201777.78, 0.0173
     else:
